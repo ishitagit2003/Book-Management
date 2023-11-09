@@ -90,7 +90,7 @@ Make sure you have the following installed on your machine:
 4. **Run the Application:**
      ```bash
      npm index.html 
-   The application should now be running at http://localhost:3001.
+The application should now be running at http://localhost:3001.
      
 5. **Start Managing Your Books:**
 - Add, search, update, and delete books as needed.
